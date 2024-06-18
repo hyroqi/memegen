@@ -1,3 +1,9 @@
+# Hiro's Meme Generator
+
+Created with the create-react-app , a simple meme generator that calls on random meme images from the imgflip API.
+Currently deployed on:  https://hiromemegenerator.netlify.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
